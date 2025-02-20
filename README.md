@@ -2,3 +2,7 @@
 proyecto aplicación web del sprint desarrollo de software
 :)
 
+
+pandas
+ plotly_express
+ streamlit
