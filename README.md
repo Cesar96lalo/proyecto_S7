@@ -1,8 +1,8 @@
 # proyecto_S7
 proyecto aplicación web del sprint desarrollo de software
-:)
 
 
-pandas
- plotly_express
- streamlit
+Link para aplicación: https://proyecto-s7-1.onrender.com
+
+
+
